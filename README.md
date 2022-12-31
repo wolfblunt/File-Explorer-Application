@@ -11,7 +11,7 @@ sudo apt-get install g++
 ```
 Compile `main.cpp` using 
 ```bash
-c++ main.cpp
+g++ main.cpp
 ```
 Then Execute using
 ```bash
